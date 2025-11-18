@@ -1,4 +1,4 @@
-# Aplha Compiler And Virtual Machine   
+# Alpha Compiler And Virtual Machine   
 ### _hy340 project - spring 2023_
 ## About
 A compiler and a virtual machine for the dynamically-typed programming language 'Alpha'.
